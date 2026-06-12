@@ -1,0 +1,7 @@
+# Local Terraform state and downloaded providers — never commit.
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+!example.tfvars
